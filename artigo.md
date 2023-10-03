@@ -13,8 +13,6 @@ Para fomentar o aprendizado contínuo em sistemas conversacionais e lidar com o 
 ### Diagrama de blocos
 
 [Monitoramento de Dados] -> [Re-treinamento Automático] -> [Feedback Iterativo]
-                          ↘
-                   [Detecção de Concept Drift]
 
 ### Responsabilidades de cada Bloco
 
